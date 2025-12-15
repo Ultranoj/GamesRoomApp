@@ -16,5 +16,45 @@ namespace GamesRoomApp
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtJmeno_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTrida_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dtpDatum_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dptOd_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dptDo_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_smazat_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_vytvorit_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
